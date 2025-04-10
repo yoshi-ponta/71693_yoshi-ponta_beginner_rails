@@ -1,0 +1,23 @@
+[33mcommit d00b47c077859582f7b719b584fb5818ffecc661[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/01_add_runteq_to_welcome[m[33m, [m[1;31morigin/feature/01_add_runteq_to_welcome[m[33m)[m
+Author: yoshimaru <yoshi0410777@gmail>
+Date:   Thu Apr 10 11:13:32 2025 +0900
+
+    　変更
+
+[33mcommit ca14c30794d06da071fdcf74fbea5856c06f38a3[m
+Author: yoshimaru <yoshi0410777@gmail>
+Date:   Thu Apr 10 11:09:56 2025 +0900
+
+    コミット
+
+[33mcommit af9cb8019910eb1d1a9c498e8fd2b5ad9814ba9e[m
+Author: yoshimaru <yoshi0410777@gmail>
+Date:   Wed Apr 9 13:42:49 2025 +0900
+
+    RUNTEQ実装
+
+[33mcommit 417d5e26fa35681f3b1b944ddbef26b63d9c53d6[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: runteq <support@runteq.jp>
+Date:   Tue Apr 8 14:03:54 2025 +0900
+
+    initial commit
